@@ -1,5 +1,0 @@
-advancedwebranking: HTML을 사용하는 웹사이트의 태그 개수 통계, 태그 순위를 보여준다.
-https://www.advancedwebranking.com/html/
-
-unsplash: 저작권이 없는 무료 이미지 사이트.
-https://unsplash.com/
