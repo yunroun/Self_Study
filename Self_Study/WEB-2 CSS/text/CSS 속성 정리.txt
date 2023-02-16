@@ -1,0 +1,22 @@
+color : 색상 변경
+text-decoration : 밑줄
+font-size : 글씨 크기 변경
+text-align : 글씨 위치 변경
+
+border-width : 테두리 두께
+border-color : 테두리 색상
+border-style : 테두리 스타일 (단선, 점선, 실선 등)
+display : 지정한 태그의 화면 크기를 변경
+padding : 글씨와 테두리 사이에 여백을 지정
+margin : 테두리와 테두리 사이에 여백을 지정
+width : 폭 지정 (가로)
+height : 높이 지정 (세로)
+
+grid-template-columns : 지정한 그리드에서 각각의 열 크기를 지정. (display에서 grid를 지정 후 사용)
+
+
+<mediaquery 미디어쿼리 - 괄호 안에 조건을 만족했을 때 실행한다.>
+@media(조건식) {} 형태로 사용.
+
+min-width : 최소 열 크기. (지정 열 크기보다 커지면 실행)
+max-width : 최대 열 크기. (지정 열 크기보다 작아지면 실행)
